@@ -4,6 +4,8 @@ using UnityEngine;
 
 public static class ListCompare
 {
+    //How can i use this script? ListCompare.CompareLists<Component>(list1, list2);
+    
     public static bool CompareLists<T>(List<T> TryToMatch, List<T> MatchList) //return true == yeah, they are same, return false == no, they are not same or in wrong order..
     {
         if (TryToMatch.Count != MatchList.Count) //If list count don't match.
