@@ -1,6 +1,5 @@
-script dump. use it or not. i don't care
+script dump. Use it or not. I don't care
 
-use everywhere, on everything, sell it, delete it, dropship it on web whatever dude. enjoy i guess. I hope you find script you wanted..
+Use everywhere, on everything, sell it, delete it, dropship it on the web, whatever, dude. Enjoy, i guess. I hope you find the script you wanted.
 
-i wanna add here script's that are actually useful for someone. That's why is not here too many script..
-
+I want to add here scripts that are actually useful for someone. That's why there aren't too many scripts.
